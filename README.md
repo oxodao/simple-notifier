@@ -22,6 +22,8 @@ locations:
 $ sn -l LOCATION_NAME -m "My message to be sent"
 ```
 
+Made to be used alongside [autorestic](https://github.com/cupcakearmy/autorestic), but it will probably fit any other workflow, idc do what you want with it.
+
 ## License
 
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
