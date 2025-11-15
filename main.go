@@ -13,7 +13,7 @@ import (
 	_ "github.com/oxodao/simple-notifier/gotify"
 )
 
-const VERSION = "v0.1.1"
+const VERSION = "v0.2.0"
 
 var rootCmd = &cobra.Command{
 	Use:   "sn",
